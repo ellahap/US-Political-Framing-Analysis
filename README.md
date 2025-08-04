@@ -1,6 +1,6 @@
 # US-Political-Framing-Analysis
 
-This pipeline was created as a project for my LING 413 class. I wrote a paper, *"Analyzing Political Framing and Polarization in U.S. Senator Tweets Using Word Embeddings"* based on its findings.
+This pipeline was created as a project for my LING 413 class. I wrote a research paper, [*Analyzing Political Framing and Polarization in U.S. Senator Tweets Using Word Embeddings*](https://github.com/ellahap/US-Political-Framing-Analysis/blob/main/research-paper.pdf) based on my work.
 
 ## Abstract
 
